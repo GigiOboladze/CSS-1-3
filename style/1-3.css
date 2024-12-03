@@ -1,0 +1,31 @@
+h1 {
+    color: #000;
+    font-size: 72px;
+    text-align: center;
+}
+#stafilo {
+    width: 1220px;
+    color: #FF8000;
+    text-align: center;
+    font-size: 24px;
+    margin-left: 294px;
+}
+#titleone {
+    width: 681px;
+    color: #D9AE00;
+    font-size: 40px;
+    margin-top: 63px;
+}
+#textone {
+    width: 681px;
+    color: #6D81B4;
+    font-size: 24px;
+    margin-top: 24px;
+}
+#imgone {
+    margin-top: 30px;
+    margin-left: 67px;
+}
+#boxone {
+    margin-left: 74.5px;
+}
